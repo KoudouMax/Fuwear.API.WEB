@@ -1,0 +1,44 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1705.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fuwear.API.UI", "Fuwear.API.UI.csproj", "{32D30C11-3B15-4E1D-BDD4-6C960B339458}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fuwear.API.Test", "..\Fuwear.API.Test\Fuwear.API.Test.csproj", "{37CAD7AC-3EF1-4EDB-9C75-2C7E5417C6CF}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{E4E8C0E7-CDBB-45DC-AB18-A9535B9CA06D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{32D30C11-3B15-4E1D-BDD4-6C960B339458}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32D30C11-3B15-4E1D-BDD4-6C960B339458}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32D30C11-3B15-4E1D-BDD4-6C960B339458}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32D30C11-3B15-4E1D-BDD4-6C960B339458}.Release|Any CPU.Build.0 = Release|Any CPU
+		{37CAD7AC-3EF1-4EDB-9C75-2C7E5417C6CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37CAD7AC-3EF1-4EDB-9C75-2C7E5417C6CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37CAD7AC-3EF1-4EDB-9C75-2C7E5417C6CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37CAD7AC-3EF1-4EDB-9C75-2C7E5417C6CF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EF076ADA-8AC9-45F9-A6D9-AF8AF3B2FE9A}
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		Policies = $0
+		$0.DotNetNamingPolicy = $1
+		$1.DirectoryNamespaceAssociation = PrefixedHierarchical
+		$0.TextStylePolicy = $2
+		$2.inheritsSet = null
+		$2.scope = text/x-csharp
+		$0.CSharpFormattingPolicy = $3
+		$3.scope = text/x-csharp
+		BaseDirectory = ..
+	EndGlobalSection
+EndGlobal
