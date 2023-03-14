@@ -6,7 +6,7 @@ Pour ce test vous devez créer un projet API web ASP.NET Core / .NET 7.0 avec 2 
 Une fois le projet fini, vous devez publier le code dans Github et nous envoyer le lien,
 
  
-## Fibonacci
+### Fibonacci
  
 
 Le endpoint /fibonacci/{n} retourne la valeur de la suite de Fibonacci pour le rang n.
@@ -19,7 +19,7 @@ Et pour n > 1 : F(n) = F(n-1) + F(n-2)
 Calculer la valeur de la suite pour n respectant la condition suivante 1 <= n <= 100, sinon retourner -1.
 
  
-## Actions
+### Actions
  
 
 Le endpoint /action retourne l’action ayant le prix moyen le plus élevé.
