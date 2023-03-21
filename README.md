@@ -1,5 +1,5 @@
 # Fuwear.API.WEB
-[Test technique] Projet API web
+Projet API web
 
 Pour ce test vous devez créer un projet API web ASP.NET Core / .NET 7.0 avec 2 endpoints,
 
